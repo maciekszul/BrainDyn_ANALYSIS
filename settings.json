@@ -1,0 +1,5 @@
+{
+    "derivatives_path": "/home/maciek/datasets/braindyn_bids/derivatives",
+    "container_command_line": "singularity run /home/maciek/neurodocker.simg"
+}
+
